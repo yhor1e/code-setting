@@ -1,0 +1,15 @@
+abusaidm.html-snippets
+dbaeumer.vscode-eslint
+eamodio.gitlens
+ecmel.vscode-html-css
+EditorConfig.EditorConfig
+hollowtree.vue-snippets
+jcbuisson.vue
+octref.vetur
+patbenatar.advanced-new-file
+rrudi.vscode-dired
+shinnn.stylelint
+techer.open-in-browser
+tuttieee.emacs-mcx
+vscode-icons-team.vscode-icons
+waderyan.gitblame
